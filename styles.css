@@ -1,7 +1,7 @@
 *{
     background-color: black;
     color: white;
-    font-family: monospace,Arial, Helvetica, sans-serif;
+    font-family: monospace, Arial, Helvetica, sans-serif;
 }
 
 .carousel-container{
@@ -53,7 +53,7 @@ a:hover{
     height: 330px;
     display: inline-block;
     margin: 0px 10px;
-    background-color: white;
+    
     border-radius: 5px;
     box-shadow: 1rem 1rem 1rem -1rem #a0a0a0;
 }
@@ -79,16 +79,18 @@ a{
 }
 
 .header{
-    font-size: 60px;
+    font-size: 30px;
     font-weight: 800;
     text-align: center;
+    padding: 10px;
     
 }
 
 .para{
-    font-size: 23px;
+    font-size: 20px;
     font-family: monospace,Arial, Helvetica, sans-serif;
     text-align: left;
+    padding: 10px;
 }
 
 .img{
